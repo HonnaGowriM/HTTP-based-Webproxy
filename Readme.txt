@@ -45,3 +45,4 @@
 
   10. Additionally, the potentional links to while the user might visit is prefetched and kept. 
   
+  11. A file blocked.txt contains terms that is used to block a page from loading.
